@@ -6,7 +6,7 @@
 2. "Hands on Machine Learning" - Aurélien Geron (Examples in Python)
 3. "Python Machine Learning" - Sebastian Raschke 
 
-### Advanced
+#### Advanced
 _I need to do these myself_
 1. "Elements of Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Deep Learning Book" - Ian Goodfellow, Yoshua Bengio and Aaron Courville
