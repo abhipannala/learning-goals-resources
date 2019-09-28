@@ -1,6 +1,5 @@
 # Books
 
-## Introductory
 ### Machine Learning
 1. "Introduction to Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Hands on Machine Learning" - Aurélien Geron (Examples in Python)
