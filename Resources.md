@@ -9,6 +9,7 @@
 _I need to do these myself_
 1. "Elements of Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Deep Learning Book" - Ian Goodfellow, Yoshua Bengio and Aaron Courville
+3. "Interpretable Machine Learning" - Christoph Molnar
 
 ### Python
 1. "Automating the Boring Stuff with Python" - Al Sweigert (This book is a lot of fun!)
@@ -29,3 +30,9 @@ _I need to do these myself_
 
 # Online Courses
 _Need to complete_
+**DUMP**
+http://d2l.ai/
+https://www.udemy.com/share/101Y5KA0cScF9RQXg=/
+https://www.udemy.com/course/machinelearning/
+https://www.fast.ai/
+
