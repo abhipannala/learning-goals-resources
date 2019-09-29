@@ -3,7 +3,7 @@
 ### Machine Learning
 1. "Introduction to Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Hands on Machine Learning" - Aurélien Geron (Examples in Python)
-3. "Python Machine Learning" - Sebastian Raschke 
+3. "Python Machine Learning" - Sebastian Raschka
 
 #### Advanced
 _I need to do these myself_
