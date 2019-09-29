@@ -36,3 +36,6 @@ https://www.udemy.com/share/101Y5KA0cScF9RQXg=/
 https://www.udemy.com/course/machinelearning/
 https://www.fast.ai/
 
+
+# Blogs
+1. Jake Vanderplas Blog: http://jakevdp.github.io/
