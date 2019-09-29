@@ -26,6 +26,7 @@ _I need to do these myself_
 5. "Sapiens" - Yuval Noah Harari
 6. "The Power of Habit" - Charles Duhigg
 7. "Option B" - Sheryl Sandberg, Adam grant
+8. "Thinking Fast and Slow" - Daniel Kahneman
 
 # Online Courses
 _Need to complete_
