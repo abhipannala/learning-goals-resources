@@ -38,4 +38,4 @@ https://www.fast.ai/
 
 
 # Blogs
-1. Jake Vanderplas Blog: http://jakevdp.github.io/
+1. Jake VanderPlas Blog: http://jakevdp.github.io/
