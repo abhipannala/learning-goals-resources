@@ -39,3 +39,11 @@ _I need to do these myself_
 1. Jake VanderPlas Blog: http://jakevdp.github.io/
 2. Resources on Feature Engineering: https://www.trainindata.com/post/data-processing
 3. Resources on Machine Learning: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
+
+# Other Resources
+1. Brandon Rhodes Pandas From The Ground Up: https://www.youtube.com/watch?v=5JnMutdy6Fw (Has an accompanying public Anki deck, which makes it worth it despite being from 2015)
+2. My New Madness: https://medium.com/@rrfd/simple-automatic-feature-engineering-using-featuretools-in-python-for-classification-b1308040e183
+3. How to Make High Yield Anki Cards: https://medshamim.com/med/make-high-yield-anki-cards
+4. Python Programming in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
+5. Python playlist by the same guy as #4: https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
+
