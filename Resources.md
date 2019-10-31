@@ -35,9 +35,8 @@ _I need to do these myself_
 4. Fastai (Amazing course focusing on application first methodology vs traditional theory first methodology): https://www.fast.ai/
 
 # Blogs
-1. Jake VanderPlas Blog: http://jakevdp.github.io/
-2. Resources on Feature Engineering: https://www.trainindata.com/post/data-processing
-3. Resources on Machine Learning: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
+1. Jake VanderPlas: http://jakevdp.github.io/
+2. Sebastian Raschka: https://sebastianraschka.com/blog/index.html
 
 # Other Resources
 1. My New Madness: https://medium.com/@rrfd/simple-automatic-feature-engineering-using-featuretools-in-python-for-classification-b1308040e183
