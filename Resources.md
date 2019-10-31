@@ -45,9 +45,9 @@ _I need to do these myself_
 3. Python Programming in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
 4. Python playlist by the same guy: https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
 
-# Deployment of Machine Learning Models Course Material
+# Deployment of ML Models Bonus Material
 1. Best resources to learn ML: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
-2. 
+2. Feature Engineering Best Resources: https://www.trainindata.com/post/data-processing
 
 # Other Specific Resources
 1. Sebastian Raschka on Feature Selection Methods: https://sebastianraschka.com/faq/docs/feature_sele_categories.html
