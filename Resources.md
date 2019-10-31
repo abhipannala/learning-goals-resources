@@ -47,3 +47,7 @@ _I need to do these myself_
 4. Python Programming in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
 5. Python playlist by the same guy as #4: https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
 
+# Deployment of Machine Learning Models Course Material
+1. Best resources to learn ML: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
+2. 
+
