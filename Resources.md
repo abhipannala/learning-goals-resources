@@ -43,7 +43,7 @@ _I need to do these myself_
 1. My New Madness: https://medium.com/@rrfd/simple-automatic-feature-engineering-using-featuretools-in-python-for-classification-b1308040e183
 2. How to Make High Yield Anki Cards: https://medshamim.com/med/make-high-yield-anki-cards
 3. Python Programming in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
-4. Python playlist by the same guy as #4: https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
+4. Python playlist by the same guy: https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt
 
 # Deployment of Machine Learning Models Course Material
 1. Best resources to learn ML: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
