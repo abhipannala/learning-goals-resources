@@ -34,7 +34,6 @@ _I need to do these myself_
 3. Machine Learning A-Z: https://www.udemy.com/course/machinelearning/
 4. Fastai (Amazing course focusing on application first methodology vs traditional theory first methodology): https://www.fast.ai/
 
-
 # Blogs
 1. Jake VanderPlas Blog: http://jakevdp.github.io/
 2. Resources on Feature Engineering: https://www.trainindata.com/post/data-processing
@@ -49,4 +48,7 @@ _I need to do these myself_
 # Deployment of Machine Learning Models Course Material
 1. Best resources to learn ML: https://www.trainindata.com/post/best-resources-to-learn-machine-learning
 2. 
+
+# Other Specific Resources
+1. Sebastian Raschka on Feature Selection Methods: https://sebastianraschka.com/faq/docs/feature_sele_categories.html
 
