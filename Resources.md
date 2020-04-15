@@ -25,7 +25,7 @@ _I need to do these myself_
 4. "The Now Habit" - Neil Fiore
 5. "Sapiens" - Yuval Noah Harari
 6. "The Power of Habit" - Charles Duhigg
-7. "Option B" - Sheryl Sandberg, Adam grant
+7. "Option B" - Sheryl Sandberg, Adam Grant
 8. "Thinking Fast and Slow" - Daniel Kahneman
 
 # Online Courses
