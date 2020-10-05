@@ -51,4 +51,5 @@ _I need to do these myself_
 # Other Specific Resources
 1. Sebastian Raschka on Feature Selection Methods: https://sebastianraschka.com/faq/docs/feature_sele_categories.html
 2. https://www.freecodecamp.org/news/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167/
+3. Time Series Forecasting Online Textbook: https://otexts.com/fpp3/
 
