@@ -4,12 +4,13 @@
 1. "Introduction to Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Hands on Machine Learning" - Aurélien Geron (Examples in Python)
 3. "Python Machine Learning" - Sebastian Raschka
+4. "Interpretable Machine Learning" - Christoph Molnar
 
 #### Advanced
 _I need to do these myself_
 1. "Elements of Statistical Learning" - Robert Tibshirani, Gareth James and others (Examples in R)
 2. "Deep Learning Book" - Ian Goodfellow, Yoshua Bengio and Aaron Courville
-3. "Interpretable Machine Learning" - Christoph Molnar
+
 
 ### Python
 1. "Automating the Boring Stuff with Python" - Al Sweigert (This book is a lot of fun!)
